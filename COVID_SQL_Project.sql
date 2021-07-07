@@ -184,4 +184,3 @@ where dea.continent is not Null
 Select * 
 	from PercentPopulationVaccinated
 
-
